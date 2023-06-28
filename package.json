@@ -1,0 +1,30 @@
+{
+  "name": "factorial-automated-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "Vasile Pop",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright-core": "^1.35.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vicusbass/factorial-automated-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vicusbass/factorial-automated-tests/issues"
+  },
+  "homepage": "https://github.com/vicusbass/factorial-automated-tests#readme",
+  "description": ""
+}
